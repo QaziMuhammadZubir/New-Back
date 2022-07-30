@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "W2ClkeW7Hlq/gOOHX41KFdGMfaoHHR1v8s6umdqYe3c=",
+  "Source": "New back",
+  "BasePath": "_content/New back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "New back\\wwwroot",
+      "Source": "New back",
+      "ContentRoot": "D:\\New Back\\New back\\wwwroot\\",
+      "BasePath": "_content/New back",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\New Back\\New back\\wwwroot\\Images\\11.jpg",
+      "SourceId": "New back",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\New Back\\New back\\wwwroot\\",
+      "BasePath": "_content/New back",
+      "RelativePath": "Images/11.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\11.jpg"
+    }
+  ]
+}
